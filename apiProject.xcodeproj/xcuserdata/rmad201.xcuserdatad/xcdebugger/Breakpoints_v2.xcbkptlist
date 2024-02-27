@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "70FEFF05-6D66-4429-8DFF-4C057A5D796E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "385AF312-FADE-411D-BD47-93B11682845B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "apiProject/network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchData(from:method:body:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "385AF312-FADE-411D-BD47-93B11682845B - 796983ca7e469ee5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "apiProject.NetworkManager.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Swift.String, method: apiProject.HTTPMethod, body: Swift.Optional&lt;Foundation.Data&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, apiProject.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "apiProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rmad201/Desktop/apiProject/apiProject/network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "385AF312-FADE-411D-BD47-93B11682845B - 6b7313cc0f9a40f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in apiProject.NetworkManager.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Swift.String, method: apiProject.HTTPMethod, body: Swift.Optional&lt;Foundation.Data&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, apiProject.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "apiProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rmad201/Desktop/apiProject/apiProject/network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
